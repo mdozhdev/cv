@@ -12,7 +12,7 @@ Radio and Television Faculty, Radio Electronic Systems
 ## Work Experience
 
 ### SRE
-<b>Assaia - The ApronAI</b>, 2020 - present<br>
+<b>Assaia - The ApronAI</b>, 2020 - 2023<br>
 Zurich, CH<br>
 [https://assaia.com](https://assaia.com/)<br><br>
 
