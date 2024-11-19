@@ -10,9 +10,20 @@ Saint Petersburg, Russia, 2006<br>
 Radio and Television Faculty, Radio Electronic Systems
 
 ## Work Experience
+### Lead DevOps Engineer
+<b>Qatar Insurance Company</b>, Feb 2024 - present<br>
+Doha, Qatar<br>
+[https://www.qic.digital/](https://www.qic.digital/)<br><br>
+
+* Prepared cloud infrastructure for services rollout (GCP, GCE, GKE, Terraform, Ansible)
+* Created CI/CD pipelines for number of services (Cloud Build, Cloud Deploy, Golang, Node.js, PHP, Docker)
+* Created Dev/UAT/Production environments for several projects (GKE, Cloud Load Balancing, GCS, Cloud SQL)
+* Hardened environments (Hashicorp Vault, CloudArmor, IAM)
+* Implemented security enforcements (ZAP, DefectDojo, DependencyTrack, Trivy)
+* Implemented monitoring infrastructure (Cloud Monitoring, Managed Services for Prometheus, Grafana, Grafana Alerts)
 
 ### SRE
-<b>Assaia - The ApronAI</b>, 2020 - 2023<br>
+<b>Assaia - The ApronAI</b>, Jul 2020 - May 2023<br>
 Zurich, CH<br>
 [https://assaia.com](https://assaia.com/)<br><br>
 
